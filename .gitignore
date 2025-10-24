@@ -1,0 +1,6 @@
+venv_limpo/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
