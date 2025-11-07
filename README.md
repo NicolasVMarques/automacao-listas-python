@@ -2,6 +2,10 @@
 
 Este projeto contém um script Python desenvolvido para automatizar o processo de limpeza e filtragem de planilhas de contatos (leads), preparando-as para campanhas de marketing ou prospecção.
 
+Com esta automação, consegui otimizar tempo em uma tarefa repetitiva e demorada que eu fazia todo dia manualmente no trabalho.
+
+Com o código executável, foi possível disponibilizar a automação em outras máquinas caso precisasse.
+
 O script utiliza `pandas` para manipulação de dados e `tkinter` para criar interfaces gráficas de seleção de arquivos.
 
 ## Funcionalidades Principais
